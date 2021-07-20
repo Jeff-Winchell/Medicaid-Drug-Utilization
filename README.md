@@ -6,4 +6,4 @@ Run the data_setup.bat file to download about 2GB of data from the US medicaid w
 
 Open the Power BI file, which has connections specific to my computer name. So change that name to your computer name. (If you run SQL Server on a separate machine, you'll need to make some additional changes to the batch file.
 
-The three image files are screenshots taken from the Power BI file.
+The powerpoint file is a presentation summarizing this project.
